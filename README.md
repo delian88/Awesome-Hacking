@@ -1,6 +1,6 @@
 ![Awesome Hacking](awesome_hacking.jpg)
 
-# [Awesome Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+# [Awesome Hacking](https://github.com/delian88/Awesome-Hacking)
 
 **A collection of awesome lists for hackers, pentesters & security researchers.**
 
@@ -79,9 +79,6 @@ Repository | Description
 
 ### Need more ?
 
-Follow **Hack with GitHub** on your favorite social media to get daily updates on interesting GitHub repositories related to Security.
- - Twitter : [@HackwithGithub](https://twitter.com/HackwithGithub)
- - Facebook : [HackwithGithub](https://www.facebook.com/HackwithGithub)
 
 ### Contributions
 
